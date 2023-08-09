@@ -1,1 +1,0 @@
-1/ if error with "webp-converter", run --> npm i webp-converter@2.2.3 --save-exact
